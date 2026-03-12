@@ -72,10 +72,13 @@ Paper: [UnGANable: Defending Against GAN-based Face Manipulation](https://www.us
 
 **Setup:**
 Instructions Coming Soon...
+
 **Denoising:**
 Set **strength** to 0.025 and **img_size** to 256. Our best performing prompt combination is C6.
+
 **Evaluation:**
 Instructions Coming Soon...
+
 **Image Dataset:**
 Dataset Coming Soon...
 
@@ -86,10 +89,13 @@ Paper: [An Undetectable Watermark for Generative Image Models](https://arxiv.org
 
 **Setup:**
 Instructions Coming Soon...
+
 **Denoising:**
 Set **strength** to 0.15 and **img_size** to 512. Our best performing prompt combination is C8.
+
 **Evaluation:**
 Instructions Coming Soon...
+
 **Image Dataset:**
 Dataset Coming Soon...
 
@@ -100,10 +106,13 @@ Paper: [Robust Watermarking Using Generative Priors Against Image Editing: From 
 
 **Setup:**
 Instructions Coming Soon...
+
 **Denoising:**
 Set **strength** to 0.25 and **img_size** to 512. Our best performing prompt combination is C6.
+
 **Evaluation:**
 Instructions Coming Soon...
+
 **Image Dataset:**
 Dataset Coming Soon...
 
@@ -114,10 +123,13 @@ Paper: [Towards Reliable Verification of Unauthorized Data Usage in Personalized
 
 **Setup:**
 Instructions Coming Soon...
+
 **Denoising:**
 Set **strength** to 0.35 and **img_size** to 512. Our best performing prompt combination is C6.
+
 **Evaluation:**
 Instructions Coming Soon...
+
 **Image Dataset:**
 Dataset Coming Soon...
 
@@ -128,10 +140,13 @@ Paper: [Adversarial Example Does Good: Preventing Painting Imitation from Diffus
 
 **Setup:**
 Instructions Coming Soon...
+
 **Denoising:**
 Set **strength** to 0.15 and **img_size** to 512. We use prompt combination C8 and model **flux**.
+
 **Evaluation:**
 Instructions Coming Soon...
+
 **Image Dataset:**
 Dataset Coming Soon...
 
@@ -142,10 +157,13 @@ Paper: [Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisib
 
 **Setup:**
 Instructions Coming Soon...
+
 **Denoising:**
 Set **strength** to 0.45 and **img_size** to 256. We use prompt combination C8 and model **flux**.  We also used model **gpt4o**.
+
 **Evaluation:**
 Instructions Coming Soon...
+
 **Image Dataset:**
 Dataset Coming Soon...
 
