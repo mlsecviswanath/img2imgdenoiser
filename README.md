@@ -187,7 +187,7 @@ March 12, 2026 - v0.1 - Released main denoising pipeline and used hyperparameter
 @inproceedings{pleimling2026off,
 author = {Xavier Pleimling and Sifat Muhammad Abdullah and Gunjan Balde and Peng Gao and Mainack Mondal and Murtuza Jadliwala and Bimal Viswanath},
 title = {{Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes}},
-booktitle = {{USENIX Security Symposium (USENIX Security)}},
+booktitle = {{IEEE Conference on Secure and Trustworthy Machine Learning}},
 publisher = {IEEE},
 year = {2026}
 }
