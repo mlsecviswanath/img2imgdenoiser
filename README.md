@@ -67,6 +67,7 @@ Note: For each defense, we plan to provide image datasets as well as setup and e
 
 ### UnGANable (USENIX Security 2023)
 Paper: [UnGANable: Defending Against GAN-based Face Manipulation](https://www.usenix.org/conference/usenixsecurity23/presentation/li-zheng)
+
 [GitHub](https://github.com/zhenglisec/UnGANable)
 
 **Setup:**
@@ -80,6 +81,7 @@ Dataset Coming Soon...
 
 ### PRC Watermark (ICLR 2025)
 Paper: [An Undetectable Watermark for Generative Image Models](https://arxiv.org/pdf/2410.07369)
+
 [GitHub](https://github.com/XuandongZhao/PRC-Watermark)
 
 **Setup:**
@@ -93,6 +95,7 @@ Dataset Coming Soon...
 
 ### VINE (ICLR 2025)
 Paper: [Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances](https://arxiv.org/pdf/2410.18775)
+
 [GitHub](https://github.com/Shilin-LU/VINE)
 
 **Setup:**
@@ -106,6 +109,7 @@ Dataset Coming Soon...
 
 ### SIREN (IEEE S&P 2025)
 Paper: [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11023473)
+
 [GitHub](https://github.com/AntigoneRandy/SIREN)
 
 **Setup:**
@@ -119,6 +123,7 @@ Dataset Coming Soon...
 
 ### Mist
 Paper: [Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples](https://arxiv.org/pdf/2302.04578)
+
 [GitHub](https://github.com/psyker-team/mist)
 
 **Setup:**
@@ -132,6 +137,7 @@ Dataset Coming Soon...
 
 ### Tree-Ring Watermark (NeurIPS 2025)
 Paper: [Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust](https://proceedings.neurips.cc/paper_files/paper/2023/file/b54d1757c190ba20dbc4f9e4a2f54149-Paper-Conference.pdf)
+
 [GitHub](https://github.com/YuxinWenRick/tree-ring-watermark)
 
 **Setup:**
@@ -147,7 +153,7 @@ Dataset Coming Soon...
 
 **Paper:** [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](https://arxiv.org/abs/2602.22197)
 
-**Website:** Coming Soon
+**Website:** [Are Existing Image Protections Already Obsolete?](https://mlsecviswanath.github.io/denoise-protections/)
 
 **Authors:** [Xavier Pleimling](https://people.cs.vt.edu/xavierp7/), [Sifat Muhammad Abdullah](https://sifatmd.github.io), [Gunjan Balde](https://sites.google.com/view/baldegunjan/home), [Peng Gao](https://people.cs.vt.edu/penggao/), [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/), [Murtuza Jadliwala](https://sprite.utsa.edu/people/mjadliwala/), [Bimal Viswanath](https://people.cs.vt.edu/vbimal/)
 
